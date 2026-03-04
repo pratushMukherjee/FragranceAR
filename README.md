@@ -51,5 +51,3 @@ License
 
 Relevant Files
 - AI behavior and integration: [Assets/AIManager.cs](Assets/AIManager.cs)
-
-If you'd like, I can also update the `AIManager` documentation comments or add a short developer-run checklist for first-time setup.
